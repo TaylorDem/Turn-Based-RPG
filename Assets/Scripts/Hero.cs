@@ -22,6 +22,6 @@ public class Hero : MonoBehaviour
     //eventually this will be passed the enemy chosen.
     public void Attack()
     {
-        anim.SetTrigger("Attack");
+        anim.SetTrigger("Attack");  //Works so far!
     }
 }
